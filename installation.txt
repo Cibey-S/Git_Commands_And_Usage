@@ -1,0 +1,13 @@
+Installing GIT:
+
+git --version 
+
+https://git-scm.com/install/windows
+
+winget install --id Git.Git -e --source winget
+
+git config --global user.name "Cibey"
+
+git config --global user.email "cibeyshivakumar@gmail.com" 
+
+git config --list
