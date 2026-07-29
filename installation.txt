@@ -1,6 +1,6 @@
 Installing GIT:
 
-git --version 
+git --version to check the version of the git and also validate if its installed.
 
 https://git-scm.com/install/windows
 
