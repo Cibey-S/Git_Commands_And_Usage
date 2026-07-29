@@ -1,0 +1,20 @@
+    2  git --version 
+    3  git status
+   21  git config --global user.name "Cibey" 
+   22  git config --list
+   25  ssh-keygen -t rsa
+   26  cat /c/Users/WELCOME/.ssh/id_rsa
+   27  git clone git@github.com:Cibey-S/Git_Commands_And_Usage.git
+   43  git add . 
+   44  git status
+   45  git commit -m "first commit" 
+   46  git remote -v 
+   48  git branch 
+   49  git push origin main 
+   57  git status 
+   67  git push origin main
+   68  git branch 
+   76  git stash 
+   85  git stash pop
+  141  git remote add origin git@github.com:Cibey-S/Git_Commands_And_Usage.git
+  149  git branch 
